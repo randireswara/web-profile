@@ -3,5 +3,6 @@ Rencana Konten
 - Javascript
 * ES6
 * Framework Javascript
+- fundamental data structure
 - PHP framework
 - Interview
