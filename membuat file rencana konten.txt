@@ -4,6 +4,7 @@ Rencana Konten
 * ES6
 * Framework Javascript
 ^ Vue
+^ React
 - fundamental data structure
 - PHP framework
 - Interview
