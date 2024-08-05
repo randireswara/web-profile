@@ -3,8 +3,10 @@ Rencana Konten
 - Javascript
 * ES6
 * Framework Javascript
-^ Angular
+^ Vue
 ^ React
+- fundamental data structure
 - PHP framework
 ^ Laravel
 - Interview
+- phyton
