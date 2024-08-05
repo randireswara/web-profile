@@ -7,5 +7,6 @@ Rencana Konten
 ^ React
 - fundamental data structure
 - PHP framework
+^ Laravel
 - Interview
 - phyton
