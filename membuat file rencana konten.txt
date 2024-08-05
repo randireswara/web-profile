@@ -3,6 +3,9 @@ Rencana Konten
 - Javascript
 * ES6
 * Framework Javascript
+^ Vue
+^ React
 - fundamental data structure
 - PHP framework
 - Interview
+- phyton
